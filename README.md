@@ -1,6 +1,6 @@
 # README
 
-### Case Study: How are different genders portrayed on television?  Analyze the sentiment of characters in a very popular tv show, "The Office" using the VADER package in R.
+### Case Study: How are different genders portrayed on television?  Analyze the sentiment of characters in a very popular tv show, "The Office", using the VADER package in R.
 
 #### Summary of folders in this repository:
 
